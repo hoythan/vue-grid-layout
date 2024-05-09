@@ -14,10 +14,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://https://github.com/hoythan/vue-grid-layout.git"
+    "url": "https://github.com/hoythan/vue-grid-layout.git"
   },
   "author": "Gustavo Santos (JBay Solutions) <gustavo.santos@jbaysolutions.com> (http://www.jbaysolutions.com)",
-  "homepage": "https://https://github.com/hoythan/vue-grid-layout",
+  "homepage": "https://github.com/hoythan/vue-grid-layout",
   "main": "dist/vue-grid-layout.common.js",
   "unpkg": "dist/vue-grid-layout.umd.min.js",
   "files": [

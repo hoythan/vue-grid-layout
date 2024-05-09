@@ -1,4 +1,4 @@
-/*! vue-grid-layout-ultra - 2.4.1 | (c) 2015, 2024  Gustavo Santos (JBay Solutions) <gustavo.santos@jbaysolutions.com> (http://www.jbaysolutions.com) | https://https://github.com/hoythan/vue-grid-layout */
+/*! vue-grid-layout-ultra - 2.4.1 | (c) 2015, 2024  Gustavo Santos (JBay Solutions) <gustavo.santos@jbaysolutions.com> (http://www.jbaysolutions.com) | https://github.com/hoythan/vue-grid-layout */
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
 		module.exports = factory(require("vue"));
