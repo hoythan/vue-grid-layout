@@ -782,6 +782,9 @@
             },
             // Helper for generating column width
             calcColWidth() {
+                if (this.layout.colWidth) {
+                    return this.layout.colWidth;
+                }
                 const colWidth = (this.containerWidth - (this.margin[0] * (this.cols + 1))) / this.cols;
                // console.log("### COLS=" + this.cols + " COL WIDTH=" + colWidth + " MARGIN " + this.margin[0]);
                 return colWidth;
