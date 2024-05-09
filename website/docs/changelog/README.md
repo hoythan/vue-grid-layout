@@ -3,7 +3,7 @@ sidebar: auto
 ---
 # Changelog
 
-## 2.4.1 (May 9, 2024)
+## 2.4.2 (May 9, 2024)
 
 * Support configuring the colWidth parameter to specify absolute sizes, preventing issues with canvas inaccuracy due to rounding errors in calculations.
 
