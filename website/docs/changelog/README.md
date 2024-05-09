@@ -3,7 +3,11 @@ sidebar: auto
 ---
 # Changelog
 
-## 2.4.0 (Aug 3, 2022)
+## 2.4.1 (May 9, 2024)
+
+* Support configuring the colWidth parameter to specify absolute sizes, preventing issues with canvas inaccuracy due to rounding errors in calculations.
+
+## 2.4.0 (Aug 3, 2024)
 
 * GridLayout transformScale prop, to allow proper dragging and resizing when scaled (#430) (thanks [adt-hgkim](https://github.com/adt-hgkim))
 * GridLayout and GridItem isBounded prop, to prevent draging outside of the parent element (#523) (thanks [rin4ik](https://github.com/rin4ik))

@@ -34,6 +34,14 @@ Says how many columns the grid has.
 
 The value should be a _natural number_. 
 
+### colHeight
+    
+* type: `Number`
+* required: `false`
+* default: `false`
+
+Says what is a width of a single row in pixels.
+
 ### rowHeight
     
 * type: `Number`
